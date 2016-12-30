@@ -7,8 +7,6 @@ namespace GTANetworkTest.src.fuel
 {
     public class ObjectPicker : Script
     {
-        private const string FuelLevelDataKey = "Fuel-FuelLevel";
-
         public ObjectPicker()
         {
             API.onClientEventTrigger += onClientEventTrigger;
