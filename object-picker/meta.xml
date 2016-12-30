@@ -1,0 +1,9 @@
+<meta>
+    <info name="Object picker" author="René" type="script" />
+
+    <!-- server -->
+    <script src="Server/ObjectPicker.cs" type="server" lang="csharp" />
+    
+    <!-- client -->
+    <script src="Client/main.js" type="client" lang="javascript" />
+</meta>
